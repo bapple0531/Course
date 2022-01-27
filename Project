@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<link rel="stylesheet" href="CSS Files/CSSPractice.css"> 
+			<meta charset = "UTF-8">
+				<title>Course End Project</title>
+				</head>
+				
+				<header>
+	                 <h1><b>Benjamin Apple</b></h1>
+					<nav>
+						<a href= "">One</a>
+						<a href= "">Two</a>
+						<a href= "">Three</a>
+						<a href= "">Your Choice</a>
+						</nav>
+						</header>
+	
+						
+						<!--FAVORITE FOODS SECTION-->
+						<section>
+							<h2><b>Favorite Foods</b></h2>
+								<ul>
+									<li>Pimento Cheese</li>
+									<li>Parmesan</li>
+									<li>Asian Pears</li>
+									<li>Smoked Gouda Triscuits</li>
+									</ul>
+									</section>
+									<!--FAVORITE FOODS SECTION END-->
+									
+									<!--ACHIEVEMENTS SECTION-->
+									<section>
+										<h2><b>Achievements</b></h2>
+										
+											<label for="file">Progress in this Course (100%)</label>
+											<progress id="file" value="100" max="100"> 100%
+											</progress>
+											</br>
+												<label for="file">Progress in the Specialization Capstone (20%)</label>
+												<progress id="file" value="20" max="100">20 %
+												</progress>
+												</br>
+													<label for="file">Progress in Life Goals (35%)</label>
+													<progress id="file" value="35" max="100">35%
+													</progress>
+													</section>
+													<!--ACHIEVEMENT SECTION ENDS-->
+														
+														<!--MORE ABOUT ME SECTION-->
+															<section>
+																<h2><b>More About Me</b></h2>
+																<details>
+																	<summary>My Childhood</summary>
+																	<p>Grew up in Pittsboro, North Carolina and went to Greensboro 
+																		<br>for college before going to  Chicago and then Raleigh, NC.</p>
+																	</details>
+																	</section>
+																	<!--MORE ABOUT ME SECTION ENDS-->
+																		            
+														
+																		<!--ENDING SECTION-->
+																			<footer>
+																		<p><img src="https://www.intro-webdesign.com/images/newlogo.png"
+																					alt="WD4E Logo" width="300" height="150">
+                                                                        This page was created by Ben Apple and Colleen van Lent. To learn more
+																		about web design, visit <a href="http://intro-webdesign.com">Intro to Web Design</a></p>
+																		</footer>
+																	    </body>
+																		</html>
+																		<!--ENDING SECTION END-->
+																			
+																			
+																		
+																		
+																		
+																		
+																		
+																		
+																			
+																		
+																		
+																		
+																		
+														
+														
+													
+											
+										
